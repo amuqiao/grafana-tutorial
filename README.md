@@ -24,6 +24,4 @@ Grafana 是由 Grafana Labs 开发的开源监控监控系统，你可以用它�
 
 ## 访问 localhost:3000
 
-在你的浏览器中访问 `localhost:3000` 即可看到运行的 Grafana，再根据教程中的步骤设置好源即可
-
-https://kalasearch.cn/community/tutorials/comparison-of-nosql-databases/)
+在你的浏览器中访问 `localhost:3000` 即可看到运行的 Grafana
